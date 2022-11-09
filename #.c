@@ -5,7 +5,7 @@ int i;
 int j;
 int satir;
 
-printf("bir sayi gir\n");
+printf("bir sayi giriniz:\n");
 scanf("%d",&satir);
 
 for(i=1; i<=satir; i++){ 
@@ -15,5 +15,5 @@ for(j=1; j<=i; j++){
 }
 printf("\n");
 }
-return 0;
+return 0 ;
 }

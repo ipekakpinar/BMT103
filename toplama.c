@@ -15,5 +15,5 @@ for(k=1; k<=n ; k++){
     
 }
 printf("%f",sonuc);
-return 0;
+return 0 ;
 }

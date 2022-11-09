@@ -23,5 +23,5 @@ printf("Siralamaya girdiniz.");
 else
 printf("Siralamaya giremediniz.");
 
-//50 40 20
+
 }

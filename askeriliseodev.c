@@ -13,7 +13,7 @@ scanf("%f",&boy);
 printf("Kilonuzu Giriniz: \n");
 scanf("%d",&kilo);
 
-vki = kilo / (boy*boy);
+vki = kilo / (boy*boy) ;
 
 printf("Vucut Kitle Endeksiniz: %2f \n",vki);
 
